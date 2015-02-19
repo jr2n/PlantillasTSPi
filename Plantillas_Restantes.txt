@@ -1,5 +1,0 @@
-Las plantillas que me faltaron fueron las siguientes:
-
-- FORM SUMS
-- FORM SUMT
-- FORM SUMTASK
